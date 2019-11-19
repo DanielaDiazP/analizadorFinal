@@ -9,6 +9,5 @@
   <sonar.projectKey>DanielaDiazP_analizadorFinal</sonar.projectKey>
   <sonar.organization>danieladiazp</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>8f8328a89d6f57d491a10135bac4e6f414df90e9</sonar.login>
 </properties>
 </project>
